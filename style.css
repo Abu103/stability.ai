@@ -42,8 +42,8 @@ body {
   align-items: center;
   padding-top: 1.2vh;
   overflow-x: hidden;
-  position: sticky;
-  top: 0;
+/*   position: sticky;
+  top: 0; */
   /* flex-wrap: wrap; */
 }
 .nav p a {
